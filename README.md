@@ -8,5 +8,5 @@ Momcozy will deliver an updated experience for you on a regular basis, including
 By default, products are supported for at least 3 years from release date. The product will always be supported if it continues to be produced.
 # 1. White Noise Machine
 
-**Product Model**	**Country**	**Release Date**	**Security Update EOL**	**OS Version**<br>
-  M21FWDB03	        Global	    2024-5-27	        2027-5-27	              V1.0 or higher
+- **Product Model**	**Country**	**Release Date**	**Security Update EOL**	**OS Version**<br>
+- M21FWDB03	        Global	    2024-5-27	        2027-5-27	              V1.0 or higher
