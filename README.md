@@ -11,3 +11,4 @@ By default, products are supported for at least 3 years from release date. The p
 | Product Model | Country | Release Date | Security Update EOL | OS Version |
 | ---- | ---- | ---- | ---- | ---- |
 | M21FWDB03 | Global | 2024-5-27 | 2027-5-27 | V1.0 or higher |
+| DreamSync ; WN05      | Global | 2024-9-15 | 2027-9-15 | V1.0 or higher |
